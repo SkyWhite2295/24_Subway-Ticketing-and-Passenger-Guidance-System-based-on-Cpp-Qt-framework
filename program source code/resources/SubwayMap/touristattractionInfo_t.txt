@@ -1,0 +1,8 @@
+1 spot1 6
+2 spot2 6
+3 spot3 7
+4 spot4 3
+5 spot5 12
+6 spot6 2
+7 spot7 10
+8 spot8 9
